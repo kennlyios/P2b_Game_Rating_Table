@@ -7,3 +7,19 @@
 //
 
 import Foundation
+import UIKit
+
+// this is a simple data model for the player, in here, we create the variable display in the table view cell name, game and rating. then we use the initialization method to initialize the variable in the class.
+
+class Player: NSObject{
+    var name: String
+    var game: String
+    var rating: Int
+    
+    init (name:String, game:String, rating: Int){
+        self.name = name
+        self.game = game
+        self.rating = rating
+        super.init()
+    }
+}
