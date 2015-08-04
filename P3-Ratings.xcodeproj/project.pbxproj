@@ -17,6 +17,8 @@
 		3E0751941B6DE2DC00CBE645 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0751931B6DE2DC00CBE645 /* Player.swift */; };
 		3E0751961B6DE37A00CBE645 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0751951B6DE37A00CBE645 /* SampleData.swift */; };
 		3E0751981B6E328A00CBE645 /* PlayerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0751971B6E328A00CBE645 /* PlayerTableViewCell.swift */; };
+		3E07519A1B6F01E300CBE645 /* PlayerDetailsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0751991B6F01E300CBE645 /* PlayerDetailsTableViewController.swift */; };
+		3E07519C1B6F478100CBE645 /* GamePickerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E07519B1B6F478100CBE645 /* GamePickerTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		3E0751931B6DE2DC00CBE645 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		3E0751951B6DE37A00CBE645 /* SampleData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 		3E0751971B6E328A00CBE645 /* PlayerTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerTableViewCell.swift; sourceTree = "<group>"; };
+		3E0751991B6F01E300CBE645 /* PlayerDetailsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerDetailsTableViewController.swift; sourceTree = "<group>"; };
+		3E07519B1B6F478100CBE645 /* GamePickerTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GamePickerTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,10 +92,12 @@
 				3E0751711B6DDB9200CBE645 /* AppDelegate.swift */,
 				3E0751731B6DDB9200CBE645 /* ViewController.swift */,
 				3E0751751B6DDB9200CBE645 /* Main.storyboard */,
+				3E0751991B6F01E300CBE645 /* PlayerDetailsTableViewController.swift */,
+				3E0751911B6DE28D00CBE645 /* PlayersTableViewController.swift */,
+				3E07519B1B6F478100CBE645 /* GamePickerTableViewController.swift */,
 				3E0751971B6E328A00CBE645 /* PlayerTableViewCell.swift */,
 				3E0751931B6DE2DC00CBE645 /* Player.swift */,
 				3E0751951B6DE37A00CBE645 /* SampleData.swift */,
-				3E0751911B6DE28D00CBE645 /* PlayersTableViewController.swift */,
 				3E0751781B6DDB9200CBE645 /* Images.xcassets */,
 				3E07517A1B6DDB9200CBE645 /* LaunchScreen.xib */,
 				3E07516F1B6DDB9200CBE645 /* Supporting Files */,
@@ -229,7 +235,9 @@
 				3E0751741B6DDB9200CBE645 /* ViewController.swift in Sources */,
 				3E0751721B6DDB9200CBE645 /* AppDelegate.swift in Sources */,
 				3E0751961B6DE37A00CBE645 /* SampleData.swift in Sources */,
+				3E07519C1B6F478100CBE645 /* GamePickerTableViewController.swift in Sources */,
 				3E0751921B6DE28D00CBE645 /* PlayersTableViewController.swift in Sources */,
+				3E07519A1B6F01E300CBE645 /* PlayerDetailsTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,6 +433,7 @@
 				3E07518D1B6DDB9200CBE645 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3E07518E1B6DDB9200CBE645 /* Build configuration list for PBXNativeTarget "P3-RatingsTests" */ = {
 			isa = XCConfigurationList;
@@ -433,6 +442,7 @@
 				3E0751901B6DDB9200CBE645 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

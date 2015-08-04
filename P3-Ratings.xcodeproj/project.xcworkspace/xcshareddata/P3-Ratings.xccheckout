@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FA8C698E-076B-4647-A19C-F6FDC1FD90D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>P3-Ratings</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB3F4F7E11C400557526012C014D0A661562115E</key>
+		<string>github-self:kennlyios/P2-Game_Rating_table.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>P3-Ratings.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB3F4F7E11C400557526012C014D0A661562115E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github-self:kennlyios/P2-Game_Rating_table.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB3F4F7E11C400557526012C014D0A661562115E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB3F4F7E11C400557526012C014D0A661562115E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>P3-Ratings-part2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
